@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-MIT.svg?style=plastic)](https://github.com/Si13n7/CoD2MPWindowed/blob/master/LICENSE.txt)
+[![License](https://img.shields.io/badge/Licence-MIT-blue.svg?style=plastic)](https://github.com/Si13n7/CoD2MPWindowed/blob/master/LICENSE.txt)
 
 ***
 
